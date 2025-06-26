@@ -1,3 +1,4 @@
+# download these packages using pip
 pandas
 numpy
 scikit-learn
