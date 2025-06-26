@@ -7,7 +7,7 @@ This is the final project in the AI-ML Associate program to build a production-r
 - Config-driven training
 - Custom transformer with reversible transform
 - Automated tasks using `invoke`
-- Code complexity scoring with `radon`
+- Code complexity scoring with `radon`(also attached ss)
 - Unit tested components
 - Documentation via `sphinx`
 
