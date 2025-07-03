@@ -20,3 +20,5 @@ This is the final project in the AI-ML Associate program to build a production-r
 ├── scoring.py
 ├── tasks.py
 ├── docs/
+├── .gitignore
+├── __init__.py
