@@ -1,0 +1,13 @@
+data:
+  raw_data_path: "data/raw/housing.csv"
+  processed_data_path: "data/processed/housing_clean.csv"
+
+model:
+  type: "LinearRegression"
+  params:
+    fit_intercept: true
+
+output:
+  model_path: "models/linear_model.pkl"
+  metrics_path: "reports/metrics.json"
+  plots_dir: "reports/plots"
