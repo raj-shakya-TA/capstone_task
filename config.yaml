@@ -1,8 +1,0 @@
-data_source:
-  local_path: data/raw/housing.csv
-
-model:
-  type: linear_regression
-  parameters:
-    fit_intercept: true
-    normalize: false
